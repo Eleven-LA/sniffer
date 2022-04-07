@@ -19,6 +19,15 @@ IDE：VS2019
 编程语言：C
 ```
 
+- 文件说明：
+```
+Sniffer.cpp    主界面
+Parse.cpp      包解析
+Packetque.cpp  包管理
+Capture.cpp    包捕获
+Misc.cpp       其他功能性函数，如输出调试信息、字符类型转换等
+```
+
 - 程序功能：
 ```
 1.抓包
